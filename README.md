@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-gabani&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-gabani" /> </p>
 
-- 🌱 I’m currently learning **Bacholer of science - Bsc. Informaction technology**
+- 🌱 I’m currently learning **Bacholer of science - Bsc.Information Technology**
 
 - 👨‍💻 All of my projects are available IN  [Repository](https://github.com/vaibhav-gabani?tab=repositories)
 
