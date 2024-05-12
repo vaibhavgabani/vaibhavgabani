@@ -3,7 +3,7 @@
 <h3 align="center">🎓 An enthusiastic student 🌟 with a passion for technology 💻 from India</h3>
 <img alt="coding" width="400" align="right" src="https://camo.githubusercontent.com/60118c6ff524984563af07ee397adb9db65ca7c13beb663b0fa92efcf12289dd/68747470733a2f2f727579612e73747564696f2f6173736574732f696d616765732f6465762e77656270">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-gabani&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-gabani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgabani&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-gabani" /> </p>
 
 - 🌱 I’m currently learning **Bacholer of science - Bsc.Information Technology**
 
