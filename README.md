@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bacholer of science - Bsc.Information Technology**
 
-- 👨‍💻 All of my projects are available IN  [Repository](https://github.com/vaibhavgabani?tab=repositories)
+- 👨‍💻 All of my projects are available in  [Repository](https://github.com/vaibhavgabani?tab=repositories)
 
 - 💬 Ask me about **C, C++, HTML5 , CSS, BOOTSTRAP5 , DBMS**
 
