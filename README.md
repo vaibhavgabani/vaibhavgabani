@@ -42,3 +42,6 @@
 </p>
 
 ![Contributions](https://ssr-contributions-svg.vercel.app/_/vaibhavgabani?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vaibhavgabani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
