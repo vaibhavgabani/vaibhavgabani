@@ -1,5 +1,6 @@
 ![GitHub Space Shooter](https://raw.githubusercontent.com/vaibhavgabani/vaibhavgabani/output/github-contribution-grid-snake.gif)
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavgabani&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Gabani</h1>
 <h3 align="center">🎓 An enthusiastic student 🌟 with a passion for technology 💻 from India</h3>
