@@ -17,11 +17,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # This step creates the missing directory
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: generate-gh-space-shooter-gif
         uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: github-contribution-grid-snake.gif
+          # Changed this to put the file INSIDE the dist folder
+          output-path: dist/github-contribution-grid-snake.gif
 
       - name: push github-contribution-grid-snake.gif to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
