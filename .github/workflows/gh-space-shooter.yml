@@ -11,7 +11,12 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
       - name: generate-gh-space-shooter-gif
         uses: czl9707/gh-space-shooter@main
         with:
